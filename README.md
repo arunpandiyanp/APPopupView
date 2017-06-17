@@ -2,7 +2,7 @@
 AppopupView using Action sheet or alert . easy to edit 
 
 # Instruction
-this popup view are create in visual format laguage constraints. if you want you can change to frame . 
+this popup view whatever you want to add,flexible to use. 
 
 
 ## Manually
